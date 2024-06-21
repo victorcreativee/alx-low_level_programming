@@ -1,10 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
- * main - A program to check if number is negative or positive
- * Return: 0(Success)
+/**
+ *  main - This is the main function
+ *  Return: always 0
  */
+
+/* more headers goes there */
+
+/* betty style doc for function goes there */
 int main(void)
 {
 	int n;
