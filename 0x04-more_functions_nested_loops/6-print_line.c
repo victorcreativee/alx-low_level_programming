@@ -1,9 +1,13 @@
 #include "main.h"
 
 /**
- * print_line - draws a straight line in the terminal
- * @n: number of times the character _ should be printed
+ * print_line - Draws a dash line using  _.
+ *
+ * @n: The number of _ characters to be printed.
+ * Example :
+ * print_line(5)  -->  _____
  */
+
 
 void print_line(int n)
 {
